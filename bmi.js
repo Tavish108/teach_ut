@@ -3,5 +3,5 @@ function bmical(wt, ht) {
     return Math.round(bmi);
 }
 
-var bmi = bmical(65, 1.8);
+var bmi = bmical(65, 1.65);
 console.log(bmi);
